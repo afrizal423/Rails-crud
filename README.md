@@ -22,3 +22,11 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## cara install
+
+Download repo ini <br>
+install bundle <br>
+```bash
+bundle install
+```
